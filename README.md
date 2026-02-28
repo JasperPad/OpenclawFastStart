@@ -1,5 +1,5 @@
 # OpenclawFastStart
-# OpenClaw Provider 配置脚本说明
+# OpenclawFastStart 配置脚本说明
 
 本项目包含一个 Bash 脚本，用于：
 1. 通过 OpenClaw 官方安装脚本安装 OpenClaw
